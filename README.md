@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th3Heisenberg
 - 👀 I’m interested in learning all there is to learn about programming.
-- 🌱 I’m currently learning webDev and Python DevOps
+- 🌱 I’m currently into Machine Learning related software engineering.
 - 💞️ I’m looking to collaborate on projects that would make me proficient and also increase my knowledge in the field
 - 📫 How to reach me 
 -         instagram : @_._yashdeshmukh_.__
